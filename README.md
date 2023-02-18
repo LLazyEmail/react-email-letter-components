@@ -3,13 +3,16 @@
 for using templates
 `yarn add react-email-components-template`
 
+This repository was a source of all components when we moved them out.
+
+probably must be re-organized or archived in the future
+
+
+
 compare with later:
 ## https://github.com/chromakode/react-html-email
  https://www.npmjs.com/package/@types/react-html-email
  https://github.com/chromakode/react-html-email/blob/e6f3b5122a19823fac31870649311c52e46c75f8/src/StyleValidator.js#L5
-
-## https://www.npmjs.com/package/react-email-components
-https://github.com/clocklimited/ReactEmailComponents
 
 - - https://www.emailjs.com/docs/examples/reactjs/
 - - https://www.npmjs.com/package/react-email-components
@@ -64,6 +67,11 @@ Elements
 - https://www.npmjs.com/package/react-html-email-browser
 
 
+- https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71
+- https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
+- https://github.com/teambit/base-ui/blob/master/src/text/paragraph/paragraph.tsx
+
+
 ---
 
 https://github.com/SparkPost/heml/blob/master/packages/heml-elements/src/Typography.js
@@ -76,14 +84,6 @@ https://github.com/Saifadin/postonents
 
 
 ----
-
-- https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71
-- https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
-- https://github.com/teambit/base-ui/blob/master/src/text/paragraph/paragraph.tsx
-
-
-https://storybook.js.org/docs/react/workflows/testing-with-storybook
-
 
 
 
